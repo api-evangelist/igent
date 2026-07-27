@@ -1,0 +1,28 @@
+# Maestro
+
+## Docs
+
+- [Advanced features](https://docs.igent.ai/getting-started/advanced-features.md)
+- [Commands](https://docs.igent.ai/getting-started/commands.md)
+- [Core concepts](https://docs.igent.ai/getting-started/core-concepts.md)
+- [Integrations secrets](https://docs.igent.ai/getting-started/integrations-secrets.md)
+- [Prompting](https://docs.igent.ai/getting-started/prompting.md)
+- [Quick start](https://docs.igent.ai/getting-started/quick-start.md)
+- [Sandbox](https://docs.igent.ai/getting-started/sandbox.md)
+- [Session strategies](https://docs.igent.ai/getting-started/session-strategies.md)
+- [Skills](https://docs.igent.ai/getting-started/skills.md)
+- [Source control](https://docs.igent.ai/getting-started/source-control.md)
+- [Tools](https://docs.igent.ai/getting-started/tools.md)
+- [Working with maestro](https://docs.igent.ai/getting-started/working-with-maestro.md)
+- [Introduction](https://docs.igent.ai/introduction.md)
+- [Best practices](https://docs.igent.ai/reference/best-practices.md)
+- [Billing](https://docs.igent.ai/reference/billing.md)
+- [Faq](https://docs.igent.ai/reference/faq.md)
+- [Glossary](https://docs.igent.ai/reference/glossary.md)
+- [Models](https://docs.igent.ai/reference/models.md)
+- [Troubleshooting](https://docs.igent.ai/reference/troubleshooting.md)
+- [Use cases](https://docs.igent.ai/use-cases.md)
+
+## OpenAPI Specs
+
+- [openapi](https://docs.igent.ai/api-reference/openapi.json)

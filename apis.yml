@@ -1,9 +1,28 @@
 aid: igent
 name: iGent
-description: 'iGent is a company surfaced as a portfolio company of hv-capital and added to the API Evangelist
-  network as a stub for enrichment. Sector: ai-enterprise-software. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'iGent AI is a UK-based artificial intelligence company (Altrincham, Cheshire)
+  building Maestro, an autonomous AI software-engineering agent. Maestro pairs adaptive
+  autonomy with an ensemble of frontier AI models to plan, generate, test, and refine
+  code across large multi-file codebases inside secure cloud sandboxes, letting developers
+  start from scratch, upload existing code, or clone a repository. Founded by Sean Ward
+  (CEO) and Martin Szummer (CTO), iGent AI is backed by HV Capital, XTX Markets Ventures,
+  Twinpath VC, 10x Founders, and Dhyan VC. The product publishes developer documentation,
+  a quick-start guide, integrations, skills, and a credits-based billing model. iGent
+  was surfaced as a portfolio company of HV Capital and enriched into the API Evangelist
+  network; it does not currently publish a first-party public REST API.'
 url: https://raw.githubusercontent.com/api-evangelist/igent/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://igent.ai/favicon.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,13 +31,49 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Ai Enterprise Software
+- Artificial Intelligence
+- Software Development
+- Coding Agent
+- Developer Tools
+- AI Agents
+- Automation
+- LLM
+- Cloud Sandbox
 apis: []
+common:
+- type: DomainSecurity
+  url: security/igent-domain-security.yml
+- type: Website
+  url: https://igent.ai
+- type: Portal
+  url: https://docs.igent.ai
+- type: Documentation
+  url: https://docs.igent.ai
+- type: GettingStarted
+  url: https://docs.igent.ai/getting-started/quick-start
+- type: Blog
+  url: https://igent.ai/insights
+- type: Pricing
+  url: https://docs.igent.ai/reference/billing
+- type: SignUp
+  url: https://igent.ai/signup
+- type: TermsOfService
+  url: https://igent.ai/terms
+- type: PrivacyPolicy
+  url: https://igent.ai/privacy
+- type: LLMsTxt
+  url: llms/igent-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
